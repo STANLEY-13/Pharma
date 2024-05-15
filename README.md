@@ -2,7 +2,7 @@
 ## Date:15/05/24
 
 ## AIM:
-To design a responsive website for a Pharmaceutical Company using Bootstrap.
+To design a responsive website for a Pharmacy using Bootstrap.
 
 
 ## DESIGN STEPS:
@@ -32,7 +32,7 @@ Publish the website in the LocalHost.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pharmaceutical Company</title>
+  <title>Pharmacy</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
@@ -40,7 +40,7 @@ Publish the website in the LocalHost.
   <!-- Navigation Bar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="#">Pharmaceutical Company</a>
+      <a class="navbar-brand" href="#">Pharmacy</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -74,11 +74,11 @@ Publish the website in the LocalHost.
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-6">
-        <h2>Welcome to Our Pharmaceutical Company</h2>
+        <h2>Welcome to Our Pharmacy</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod velit sit amet justo sodales, ut interdum nunc posuere. Donec et leo a justo vulputate vehicula.</p>
       </div>
       <div class="col-md-6">
-        <img src="pharma.png" alt="Pharmaceutical Company" height="300" width="'400">
+        <img src="pharma.png" alt="Pharmacy" height="300" width="'400">
       </div>
     </div>
     <div class="row mt-5">
@@ -104,7 +104,7 @@ Publish the website in the LocalHost.
   <!-- Footer -->
   <footer class="bg-dark text-light mt-5 py-3">
     <div class="container text-center">
-      <p>&copy; 2024 Pharmaceutical Company. BY STANLEY S [212223110054]</p>
+      <p>&copy; 2024 Pharmacy. BY STANLEY S [212223110054]</p>
     </div>
   </footer>
 
