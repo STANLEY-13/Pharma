@@ -104,7 +104,7 @@ Publish the website in the LocalHost.
   <!-- Footer -->
   <footer class="bg-dark text-light mt-5 py-3">
     <div class="container text-center">
-      <p>&copy; 2024 Pharmaceutical Company. BY VIJAY R(212223240178).</p>
+      <p>&copy; 2024 Pharmaceutical Company. BY STANLEY S [212223110054]</p>
     </div>
   </footer>
 
@@ -285,7 +285,7 @@ Publish the website in the LocalHost.
   <div class="container mt-5">
     <h2>Contact Us</h2>
     <p>If you have any inquiries or feedback, please feel free to contact us using the form below:</p>
-    <p>vijay2108@gmail.com</p>      
+    <p>stanley2005@gmail.com</p>      
     <form>
       <div class="form-group">
         <label for="inputName">Name</label>
